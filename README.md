@@ -6,6 +6,6 @@ Technical tools such as Python libraries (Pandas, Scikit-learn, Seaborn) are use
 
 ## Contents
 <a href="https://github.com/siinn/Data-Science-Portfolio/tree/master/NYC-Rental-Prediction"> - NYC Rental Prediction</a>
-- Recognizing Hand-written Digits
+<a href="https://github.com/siinn/Data-Science-Portfolio/tree/master/DigitRecognizer"> - Recognizing Hand-written Digits</a>
 
 
