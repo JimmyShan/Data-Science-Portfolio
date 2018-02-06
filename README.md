@@ -5,7 +5,9 @@ Data science projects that I have completed for self-learning purpose. The proje
 Technical tools such as Python libraries (Pandas, Scikit-learn, Seaborn) are used in these projects.
 
 ## Contents
-<a href="https://github.com/siinn/Data-Science-Portfolio/tree/master/NYC-Rental-Prediction"> - NYC Rental Prediction</a>
-<a href="https://github.com/siinn/Data-Science-Portfolio/tree/master/DigitRecognizer"> - Recognizing Hand-written Digits</a>
+<ul>
+<li><a href="https://github.com/siinn/Data-Science-Portfolio/tree/master/NYC-Rental-Prediction">NYC Rental Prediction</a></li>
+<li><a href="https://github.com/siinn/Data-Science-Portfolio/blob/master/DigitRecognizer/notebook/Principal%20Component%20Analysis.ipynb">Recognizing Hand-written Digits</a></li>
+</ul>
 
 
