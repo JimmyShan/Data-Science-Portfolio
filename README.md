@@ -8,6 +8,7 @@ Technical tools such as Python libraries (Pandas, Scikit-learn, Seaborn) are use
 <ul>
 <li><a href="https://github.com/siinn/Data-Science-Portfolio/tree/master/NYC-Rental-Prediction">NYC Rental Prediction</a></li>
 <li><a href="https://github.com/siinn/Data-Science-Portfolio/blob/master/DigitRecognizer/notebook/Principal%20Component%20Analysis.ipynb">Recognizing Hand-written Digits</a></li>
+<li><a href="https://github.com/siinn/Data-Science-Portfolio/blob/master/NaturalLanguageProcessing/notebook/Natural%20Language%20Processing.ipynb">Natural Language Processing</a></li>
 </ul>
 
 
