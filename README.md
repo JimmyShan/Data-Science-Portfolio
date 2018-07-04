@@ -1,8 +1,9 @@
 # Data Science Portfolio
 
-Data science projects that I have completed for self-learning purpose. The projects are chosen to cover the important concepts of data science, including data collection, data cleaning, visualization, machine learning, and statistical method.
+Independent Data science projects completed for self-learning purpose. The projects cover important concepts of data science, including data collection, data cleaning, visualization, machine learning, and statistical method.
 
-Technical tools such as Python libraries (Pandas, Scikit-learn, Seaborn) are used in these projects.
+
+Python libraries (Pandas, Scikit-learn, Seaborn) are used in these projects.
 
 ## Contents
 <ul>
