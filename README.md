@@ -13,3 +13,7 @@ Python libraries (Pandas, Scikit-learn, Seaborn) are used in these projects.
 </ul>
 
 
+For more information, please also visit my blog.
+https://siinn.github.io
+
+
